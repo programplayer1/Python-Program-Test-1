@@ -2,7 +2,7 @@
 
 def get_miles_and_kilometers():
 
-    display_message()
+    code_message_syntax()
 
     try:
 
@@ -17,7 +17,7 @@ def get_miles_and_kilometers():
 
       get_miles_and_kilometers()
       
-def display_message():
+def code_message_syntax():
     print("Welcome to the miles and kilometers conversion program.")
     print("Notice that 1 mile equals 1.609 miles.")
 
